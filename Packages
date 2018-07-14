@@ -1,20 +1,12 @@
 Package: com.f0u4d.onlinenotify
-Version: 2.3.19
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist, com.rpetrich.rocketbootstrap, com.f0u4d.watusitools (>= 1.4.11)
-Conflicts: com.f0u4d.onlinenotifybeta, com.f0u4d.onlinenotify2, com.imokhles.waquickreply.bb
+Version: 1.0
 Architecture: iphoneos-arm
-Filename:./debs2.0/cydiastore_com.f0u4d.onlinenotify_v2.3.19.deb
-Size: 364480
-Installed-Size: 1613
+Maintainer: JailbreakAze <saleh.agamali@gmail.com>
+Depends: Depends: firmware (>= 7.0)
+Filename: /debs2.0/cydiastore_com.f0u4d.onlinenotify_v2.3.19.deb
+Size: 363454
 MD5sum: a96219daa253b2bd3ed578193222acdc
-Name: OnlineNotify
-Icon: file:///Library/PreferenceBundles/OnlineNotifyPrefs.bundle/OnlineNotifyPrefsIcon@2x.png
-Description: Track you friends on WhatsApp Messenger!
-Sponsor: thebigboss.org <http://thebigboss.org>
-Author: Fouad Raheb <fouad.raheb@gmail.com>
-Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=onlinenotifyDp
-homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=onlinenotifyDp
-dev: f0u4d
+Section: Tweak AZ
+Description: Azərbaycan dilində tərcümə olunmuş Tweak
+Author: Saleh Ağamalıyev <saleh.agamali@gmail.com>
+Name: OnlineNotify Aze
