@@ -1,0 +1,12 @@
+Package: com.onlinenotyfiAze
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JailbreakAze <saleh.agamali@gmail.com>
+Depends: Depends: firmware (>= 7.0)
+Filename: ./debs/com.OnlineNotifyAze_iphoneos-arm.deb
+Size: 363454
+MD5sum: a96219daa253b2bd3ed578193222acdc
+Section: Tweak AZ
+Description: Azərbaycan dilində tərcümə olunmuş Tweak
+Author: Saleh Ağamalıyev <saleh.agamali@gmail.com>
+Name: OnlineNotify Aze
